@@ -9,15 +9,15 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
 4-)2 6 16 18 22 27
 
-Big-O gösterimini yazınız.
+# Big-O gösterimini yazınız.
 
 o(n^2)
 
-Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
+# Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 
 6  ve 27 arasında olduğu için average case kapsamına girer
 
-[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+# [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
 1-)2 3 5 8 7 9 4 15 6
 
